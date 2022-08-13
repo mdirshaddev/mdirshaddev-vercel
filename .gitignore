@@ -3,3 +3,9 @@ node_modules
 
 #
 .next
+
+# env file
+.env
+
+# Sentry
+.sentryclirc
