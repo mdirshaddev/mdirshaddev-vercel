@@ -1,0 +1,9 @@
+{
+  "name": "mdirshaddev.github.io",
+  "version": "1.0.0",
+  "description": "My Personal Portfolio Website built with Next.js and Deployed on GitHub Pages 🚀. This project is a combination of various 3rd party integrations working in sync for best experience.",
+  "repository": "https://github.com/mdirshaddev/mdirshaddev.github.io.git",
+  "author": "mdirshaddev <mdirshaddev@gmail.com>",
+  "license": "MIT",
+  "private": "true"
+}
