@@ -5,5 +5,10 @@
   "repository": "https://github.com/mdirshaddev/mdirshaddev.github.io.git",
   "author": "mdirshaddev <mdirshaddev@gmail.com>",
   "license": "MIT",
-  "private": "true"
+  "private": "true",
+  "dependencies": {
+    "next": "^12.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
